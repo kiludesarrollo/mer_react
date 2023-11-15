@@ -14,7 +14,7 @@ function App() {
     <>
 
       <h1>Tienda Mercedes</h1>
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/mer_react">
         <Routes>
         <Route path="/" element={<Catalogo />} />
         <Route path="/detalleProducto/:id" element={<DetalleProducto />} />
