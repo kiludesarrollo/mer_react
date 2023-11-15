@@ -1,0 +1,112 @@
+/*
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+*/
+h1{
+    margin-left: 8%;
+    font-size: 30px;
+    color: rgb(102, 4, 25);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items:baseline;
+    width: 700px;
+    margin-left: 100px;
+    gap: 40px;
+    padding: 20px 40px;
+    background-color: rgb(238, 226, 238);
+}
+
+label{
+    color: darkblue;
+}
+
+.msg_error{
+    padding-left: 1%;
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+
+.labelradio{
+    color:darkblue;
+}
+
+.labelEscrito{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 90%;
+}
+
+.radiobutton{
+    display:grid;
+    justify-content:space-between;
+    width: 100%;
+    margin-left: 80%;
+    margin-right:120px;
+    justify-items: self-end;
+}
+
+input{
+    border: 2px solid darkmagenta;
+}
+
+.input-field{
+    width: 300px;
+    height: 20px;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 15px;
+    margin-left: 100px;
+  }
+
+.text-field{
+    width: 300px;
+    height: 150px;
+    border-radius: 8px;
+    padding: 5px;
+    border: 2px solid darkmagenta;
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+.boton{
+    margin-top: 20px;
+    margin-left: 25%;
+    width: 150px;
+    height: 50px;;
+    background-color: pink;
+    color: darkred;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#mensaje {
+    margin-top: 30px;
+    font-weight: bold;
+    font-weight: 50px;
+    color:rgb(201, 93, 15);
+    padding-left: 10%;
+}
+
+
+
+
+
+/*
+
+.Dato{
+    padding-left: 10px;
+    padding-top: 10px;
+    border-color: rgb(195, 193, 196);
+    border-style: dashed;
+    border-width: 1px;
+    font-size: large;
+}
+
+*/

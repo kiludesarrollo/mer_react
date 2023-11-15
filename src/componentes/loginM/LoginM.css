@@ -1,0 +1,73 @@
+/*body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+}
+
+h2{
+    margin-left: 8%;
+    font-size: 25px;
+    color: rgb(102, 4, 25);
+}
+
+h4{
+    margin-left: 8%;
+    color: rgb(102, 4, 25);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items:baseline;
+    width: 600px;
+    margin-left: 50px;
+    gap: 40px;
+    padding: 10px 30px;
+    background-color: rgb(238, 226, 238);
+}
+
+label{
+    color: darkblue;
+}
+
+.msg_error{
+    padding-left: 1%;
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+.logEscrito{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 90%;
+}
+
+.log-input-field{
+    width: 300px;
+    height: 20px;
+    border-radius: 8px;
+     padding: 5px;
+    font-size: 15px;
+    margin-left: 100px;
+  }
+
+.boton{
+    margin-top: 20px;
+    margin-left: 25%;
+    width: 150px;
+    height: 50px;;
+    background-color: pink;
+    color: darkred;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#mensaje {
+    margin-top: 30px;
+    font-weight: bold;
+    font-weight: 50px;
+    color:rgb(201, 93, 15);
+    padding-left: 10%;
+}
+
+*/
